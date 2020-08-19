@@ -1,1 +1,3 @@
-# d1rectory
+# Employee-Directory-React
+
+Search employees made with React
